@@ -1,0 +1,1 @@
+package com.example.cassandra;import org.springframework.data.repository.CrudRepository;/** * Created by rahul.sharma on 4/20/16. */public interface PersonRepository extends CrudRepository<Person, Long> { }
